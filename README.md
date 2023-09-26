@@ -5,7 +5,7 @@ Your task is to develop a model or method for segmenting coins from images. We w
 
 ### Requirements
 
-1. **Dataset:** You will be provided with a dataset containing images that include coins. You should use this dataset for training and testing your model/method. The dataset can be accessed via the following Google Drive link: https://drive.google.com/file/d/1Mc72BLGnZZQ0mhnh9rHOdJzYmITN-PPL/view?usp=sharing. Make sure to download and use this dataset for your task.
+1. **Dataset:** You will be provided with a dataset containing images that include coins. You should use this dataset for training and testing your model/method. The dataset can be accessed via the following Google Drive link: [https://drive.google.com/file/d/1cF-u9N7miok5-KUiriTdvA62edxIs1I_](https://drive.google.com/file/d/1cF-u9N7miok5-KUiriTdvA62edxIs1I_). Make sure to download and use this dataset for your task.
 
 2. **Programming Language:** You should use Python for this task. You can choose to work in a Python notebook (e.g., Jupyter Notebook) or submit a Python script.
 
