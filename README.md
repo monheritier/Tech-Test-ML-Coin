@@ -1,11 +1,11 @@
 ![Company Logo](https://aitaca.io/wp-content/uploads/2020/01/logo_loading.png)
-# Task Instruction: Coin Segmentation in Images
+# Task Instruction: Coin Segmentation in Images (Background removal)
 ### Task Description
-Your task is to develop a model or method for segmenting coins from images and produces accurate results. The dataset will be provided by Aitaca. 
+Your task is to develop a model or method for segmenting coins from images and produces accurate results. This means isolating the hand by removing the background. The dataset will be provided by Aitaca. 
 
 ### Requirements
 
-1. **Dataset:** You should use this dataset for training and testing your model/method. The dataset can be accessed via the following Google Drive link: [https://drive.google.com/file/d/1cF-u9N7miok5-KUiriTdvA62edxIs1I_](https://drive.google.com/file/d/1cF-u9N7miok5-KUiriTdvA62edxIs1I_). Make sure to download and use this dataset for your task.
+1. **Dataset:** You should use this dataset for training and testing your model/method.  **Pay special attention to the accuracy when removing the background, avoiding noise in the contouring.** The dataset can be accessed via the following Google Drive link: [https://drive.google.com/file/d/1cF-u9N7miok5-KUiriTdvA62edxIs1I_](https://drive.google.com/file/d/1cF-u9N7miok5-KUiriTdvA62edxIs1I_). Make sure to download and use this dataset for your task. Model is supposed to remove the background as in the images given in the dataset.
 
 2. **Programming Language:** You should use Python for this task. You can choose to work in a Python notebook (e.g., Jupyter Notebook) or submit a Python script.
 
